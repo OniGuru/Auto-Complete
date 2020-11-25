@@ -15,6 +15,5 @@ This project aims to auto-complete the input word with the help of a dictionary 
 Here is an example
 ![wordPresent](wordPresent.png)
 3. If no word can be found having prefix as input word, then user has option to either add this word to dictionary or not.
-Here is an example
+Here is an example, we can see "qwxz" was firstly not present in the dictionary, but after user chooses to add, it got added to the dictionary.
 ![wordNotPresent](wordNotPresent.png)
-As we can see "qwx" was firstly not present in the dictionary, but after user chooses to add, it got added to the dictionary.
