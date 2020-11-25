@@ -1,8 +1,9 @@
-#include<bits/stdc++.h>
-#include <string>
 #include<iostream>
-#include <vector>
+#include <string>
+#include<fstream>
+
 using namespace std;
+
 class TrieNode {
 	public :
 	char data;
