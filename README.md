@@ -17,3 +17,4 @@ Here is an example
 3. If no word can be found having prefix as input word, then user has option to either add this word to dictionary or not.
 Here is an example
 ![wordNotPresent](wordNotPresent.png)
+As we can see "qwx" was firstly not present in the dictionary, but after user chooses to add, it got added to the dictionary.
